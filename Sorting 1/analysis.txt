@@ -1,0 +1,1 @@
+Empirically the Selection Sort Algorithm performed better than Bubble Sort as well as Bubble Sort with the escape clause. The greater performance is due to the fact that the number of times we perform a swap in Selection Sort is less than the amount of swaps we do for a Bubble Sort. 
